@@ -8,12 +8,12 @@ This project focuses on building a pipeline to detect Fake News vs Real News usi
 We use a publicly available dataset containing real and fake news articles.
 The workflow includes:
 
-->Dataset Collection & Import
-->Data Cleaning & Preprocessing
-->Feature Engineering (word/char counts, TF-IDF, etc.)
-->Exploratory Data Analysis (EDA) & Visualization
-->Integrated Group Pipeline for Final Preprocessed Dataset
-->Each group member contributes with their assigned preprocessing step, documented in individual Jupyter notebooks.
+Dataset Collection & Import
+Data Cleaning & Preprocessing
+Feature Engineering (word/char counts, TF-IDF, etc.)
+Exploratory Data Analysis (EDA) & Visualization
+Integrated Group Pipeline for Final Preprocessed Dataset
+Each group member contributes with their assigned preprocessing step, documented in individual Jupyter notebooks.
 
 
 📂 Dataset Details
@@ -38,6 +38,7 @@ Stored inside results/outputs/.
 
 
 Group member roles:
+
 01.Data Set Collection and Import (IT24103775 -Fernando B.S.C)
 02.Data Cleaning (IT24103280 -Herath H.M.S.R)
 03.Text Preprocessing (IT24103525 - Semasinghe S.M.B.C)
